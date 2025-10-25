@@ -1,0 +1,57 @@
+python==3.10
+numpy==1.26.4
+pandas==2.2.2
+scikitlearn==1.5.2
+scipy==1.13.1
+matplotlib==3.9.2
+seaborn==0.13.2
+tqdm==4.66.5
+opencvpython==4.10.0.84
+
+Deep Learning / Vision / NLP
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
+transformers==4.44.2
+tokenizers==0.19.1
+sentencepiece==0.2.0
+huggingfacehub==0.24.6
+accelerate==0.34.2
+
+Specialized Frameworks
+monai==1.4.0
+pytorchlightning==2.4.0
+xgboost==2.1.1
+lightgbm==4.4.0
+catboost==1.2.5
+
+Multimodal / Vision / Generative AI
+timm==1.0.9
+faisscpu==1.8.0
+opencvpythonheadless==4.10.0.84
+openaiwhisper==20231117
+diffusers==0.31.0
+controlnet_aux==0.0.8
+sentencetransformers==3.1.0
+
+Explainability / Visualization
+shap==0.45.0
+lime==0.2.0.1
+plotly==5.24.1
+
+Utilities / System
+requests==2.32.3
+PyYAML==6.0.2
+Pillow==10.4.0
+einops==0.8.0
+mediapipe==0.10.14
+
+Optional (for LangChain / Retrieval / QA)
+langchain==0.3.3
+faissgpu==1.8.0.post1
+chromadb==0.5.3
+
+Jupyter / Development
+ipykernel==6.29.5
+jupyterlab==4.2.4
+notebook==7.2.2
